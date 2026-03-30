@@ -62,18 +62,6 @@ I lead end-to-end product and platform engineering: from whiteboarding system ar
 
 ---
 
-## 💼 Career Timeline
-
-```
-11+ Years of Engineering Excellence
-├── Solution Architecture & System Design
-├── Full-Stack Development → Cloud Engineering → AI/ML Systems
-├── Team Leadership & End-to-End Project Ownership
-└── Enterprise Integrations & Automation at Scale
-```
-
----
-
 ## 📫 Get In Touch
 
 <p align="left">
